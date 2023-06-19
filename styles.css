@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+}
+.green{
+	height:100px;
+	width:100px;
+	background-color:green;	
+}
+.red{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+.blue{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
